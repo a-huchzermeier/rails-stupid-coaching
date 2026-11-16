@@ -8,3 +8,33 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+
+.container-question {
+  padding: 5px;
+  margin: 30px;
+  background-color: rgb(242, 242, 242);
+  border-left: 4px solid lightgrey;
+ }
+
+.container-answer {
+  padding: 5px;
+  margin: 30px;
+  background-color: lightyellow;
+  border-left: 4px solid lightgrey;
+}
+
+.text {
+  font-style: italic;
+  margin: 0px 0px;
+  padding: 0px 20px;
+ }
+
+.title {
+  padding: 0px 20px;
+}
+
+a {
+  padding: 0px 20px;
+  text-decoration: none;
+  color: darkblue;
+}
